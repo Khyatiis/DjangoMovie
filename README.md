@@ -114,4 +114,24 @@ python manage.py create_movie_database
 
 After getting the API key and entering the specified file and running the command above, you can write the results of these requests to your database by sending requests to various pages of Movie DB with 13 threads every 10 seconds with the help of Python threading.
 
+## Some Screenshots from Project
 
+### Homepage with Sidebar
+![image](https://github.com/Khyatiis/DjangoMovie/assets/145100973/1329382b-a61a-4f5a-9d8a-2f46bf310c95)
+
+
+## Details of movie
+![image](https://github.com/Khyatiis/DjangoMovie/assets/145100973/f76cdb7b-cb7b-4b8a-8ff9-09545bf18d36)
+
+
+## Movie Comment Section
+
+
+
+### Signup Page (Only non logged in users can see)
+![image](https://github.com/Khyatiis/DjangoMovie/assets/145100973/43f321ca-f45a-4ead-9226-17d8bd7bccb7)
+
+
+
+### User's Profile Page Example
+![image](https://github.com/Khyatiis/DjangoMovie/assets/145100973/de931046-d08b-4a66-ad25-9bbc0f567ba0)
