@@ -151,24 +151,3 @@ THUMBNAIL_ALIASES = {
 }
 
 
-#DONE: Create whole app models
-#DONE: Homepage
-#DONE:Sidebar
-    #DONE: Homepage Pagination
-#DONE: Most Popular Movies
-    #DONE: Most Popular Movies Pagination
-#DONE:Category detail pages
-    #DONE: Category Pagination
-#DONE:Movie Detail
-#DONE:Movie Detail Comment Section (if user is authenticated)
-#DONE:Movie Detail Comment Pagination
-#DONE:Signup, Login
-#DONE:Navbar Profile Operations
-#DONE:Change password page
-#DONE:Profile Page
-#DONE:Make messages a component
-#DONE:Clickable Comment Profiles
-#DONE:Sitemap
-#DONE: Search
-#DONE:Paginated Search
-#DONE:List all USER comments on User Profile
